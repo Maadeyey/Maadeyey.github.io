@@ -1,22 +1,11 @@
 title: MJ's Project Portfolio
 description: This is my website.
-theme: minima
+theme: jekyll-theme-minimal
 
-# URL settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://Maadeyey.github.io" # the base hostname & protocol for your site
 
-# Author settings
 author:
   name: Monjolajesu Ayotunde Adeyeye
   email: Monjolajesuaadeyeye@gmail.com
 
-# Social media settings
-social:
-  instagram: monjolajesu__
-  github: Maadeyey
-
-# Build settings
+# Markdown settings
 markdown: kramdown
-
-
